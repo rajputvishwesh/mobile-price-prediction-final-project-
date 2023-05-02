@@ -2,7 +2,7 @@ Mobile Price Prediction Classification Machine Learning Project
 This project is a classification machine learning project that aims to predict the price range of mobile devices. It uses various features such as battery power, camera quality, and RAM size to predict the price range of a mobile device.
 
 Dataset
-The dataset used in this project is obtained from Kaggle. It contains 2,000 mobile devices with 20 features including price range as the target variable.
+The dataset used in this project is obtained from almabetter. It contains 2,000 mobile devices with 20 features including price range as the target variable.
 
 Requirements
 To run this project, you need to install the following libraries:
